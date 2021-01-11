@@ -1,0 +1,467 @@
+Assay Categories	DeepSEA Testing Data	CARMEN Testing Data
+DNA Accessibility	0.88590927	0.950942681
+DNA Accessibility	0.895093741	0.912618165
+DNA Accessibility	0.89176285	0.944220933
+DNA Accessibility	0.895352168	0.92214754
+DNA Accessibility	0.894276344	0.931036761
+DNA Accessibility	0.884759342	0.942962523
+DNA Accessibility	0.905788478	0.932651457
+DNA Accessibility	0.94894798	0.921438833
+DNA Accessibility	0.891777763	0.896906108
+DNA Accessibility	0.89443075	0.837853202
+DNA Accessibility	0.913662864	0.855503593
+DNA Accessibility	0.859104486	0.857110518
+DNA Accessibility	0.861820756	0.906447617
+DNA Accessibility	0.880981211	0.905438152
+DNA Accessibility	0.895031874	0.954171679
+DNA Accessibility	0.892377165	0.896098769
+DNA Accessibility	0.894348016	0.932030242
+DNA Accessibility	0.857870041	0.967802175
+DNA Accessibility	0.907105765	0.965846782
+DNA Accessibility	0.881013116	0.935576137
+DNA Accessibility	0.902847741	0.928084483
+DNA Accessibility	0.890410682	0.943916426
+DNA Accessibility	0.892447745	0.886729382
+DNA Accessibility	0.89887162	0.922987246
+DNA Accessibility	0.893088929	0.949523223
+DNA Accessibility	0.887748514	0.88924799
+DNA Accessibility	0.893329932	0.915250586
+DNA Accessibility	0.900229971	0.920387614
+DNA Accessibility	0.887013035	0.893737646
+DNA Accessibility	0.890467126	0.941239085
+DNA Accessibility	0.89179954	0.952515067
+DNA Accessibility	0.85211493	0.940750597
+DNA Accessibility	0.835949136	0.870593384
+DNA Accessibility	0.877007429	0.955078798
+DNA Accessibility	0.855572513	0.772152891
+DNA Accessibility	0.901429774	0.945829331
+DNA Accessibility	0.899364306	0.948934939
+DNA Accessibility	0.889789975	0.966779487
+DNA Accessibility	0.889178572	0.951623663
+DNA Accessibility	0.89240159	0.950549629
+DNA Accessibility	0.866669279	0.952670374
+DNA Accessibility	0.902014588	0.934242575
+DNA Accessibility	0.894481518	0.866644405
+DNA Accessibility	0.881200396	0.937085748
+DNA Accessibility	0.86386309	0.929230575
+DNA Accessibility	0.837860473	0.879794441
+DNA Accessibility	0.889239055	0.984929078
+DNA Accessibility	0.825721834	0.857800944
+DNA Accessibility	0.894689775	0.889658636
+DNA Accessibility	0.88076952	0.951852994
+DNA Accessibility	0.873788102	0.928092577
+DNA Accessibility	0.89700891	0.997530864
+DNA Accessibility	0.883939136	0.957456834
+DNA Accessibility	0.870910715	0.983202815
+DNA Accessibility	0.885242855	0.996
+DNA Accessibility	0.931198132	0.907234304
+DNA Accessibility	0.88833909	0.976549481
+DNA Accessibility	0.895896005	0.977893156
+DNA Accessibility	0.893471653	0.936588556
+DNA Accessibility	0.871205103	0.768344711
+DNA Accessibility	0.884339922	0.956175149
+DNA Accessibility	0.887421395	0.910374024
+DNA Accessibility	0.86715011	0.923550018
+DNA Accessibility	0.876842494	0.886058012
+DNA Accessibility	0.845630824	0.912933447
+DNA Accessibility	0.862912229	0.910653408
+DNA Accessibility	0.844089425	0.908993043
+DNA Accessibility	0.891768397	0.958224949
+DNA Accessibility	0.890366927	0.954950845
+DNA Accessibility	0.903142383	0.949754046
+DNA Accessibility	0.808873282	0.754311398
+DNA Accessibility	0.844774818	0.914938839
+DNA Accessibility	0.894145049	0.915408192
+DNA Accessibility	0.892241471	0.948045492
+DNA Accessibility	0.897345816	0.98522684
+DNA Accessibility	0.878829455	0.904237916
+DNA Accessibility	0.890951168	0.757582291
+DNA Accessibility	0.845412546	0.913300672
+DNA Accessibility	0.857696298	0.887451319
+DNA Accessibility	0.835815707	0.860577202
+DNA Accessibility	0.845070046	0.870819035
+DNA Accessibility	0.888498532	0.903848638
+DNA Accessibility	0.916097097	0.951434971
+DNA Accessibility	0.878377233	0.949932146
+DNA Accessibility	0.889204669	0.951187124
+Transcription Factor Binding	0.920590755	0.955742832
+Transcription Factor Binding	0.855253081	0.966250671
+Transcription Factor Binding	0.996744387	0.967189664
+Transcription Factor Binding	0.932941411	0.973736236
+Transcription Factor Binding	0.908028017	0.989447027
+Transcription Factor Binding	0.895501617	0.961540763
+Transcription Factor Binding	0.855156549	0.957331406
+Transcription Factor Binding	0.928615414	0.833227393
+Transcription Factor Binding	0.827633508	0.941927949
+Transcription Factor Binding	0.954862506	0.957498497
+Transcription Factor Binding	0.941384016	0.967950397
+Transcription Factor Binding	0.795582112	0.811703468
+Transcription Factor Binding	0.722039421	0.829513153
+Transcription Factor Binding	0.809089726	0.965442839
+Transcription Factor Binding	0.926937381	0.970698725
+Transcription Factor Binding	0.726776069	0.67984096
+Transcription Factor Binding	0.888372885	0.970340721
+Transcription Factor Binding	0.90502285	0.931397585
+Transcription Factor Binding	0.794989092	0.922344963
+Transcription Factor Binding	0.871891251	0.963725156
+Transcription Factor Binding	0.688669096	0.626416857
+Transcription Factor Binding	0.907026879	0.962837666
+Transcription Factor Binding	0.882927505	0.938994051
+Transcription Factor Binding	0.836516184	0.920864951
+Transcription Factor Binding	0.867258536	0.961813717
+Transcription Factor Binding	0.926633021	0.95222068
+Transcription Factor Binding	0.846153775	0.858007681
+Transcription Factor Binding	0.904469792	0.94425083
+Transcription Factor Binding	0.755936657	0.88687892
+Transcription Factor Binding	0.921721432	0.962898157
+Transcription Factor Binding	0.722604623	0.864903554
+Transcription Factor Binding	0.934236162	0.950751533
+Transcription Factor Binding	0.886980081	0.984800595
+Transcription Factor Binding	0.841464226	0.888886009
+Transcription Factor Binding	0.857395908	0.919715274
+Transcription Factor Binding	0.944507594	0.976952079
+Transcription Factor Binding	0.826641125	0.945504423
+Transcription Factor Binding	0.845736131	0.938634879
+Transcription Factor Binding	0.778981549	0.907693105
+Transcription Factor Binding	0.866302752	0.955378963
+Transcription Factor Binding	0.906917771	0.955109368
+Transcription Factor Binding	0.96905045	0.976883279
+Transcription Factor Binding	0.940164912	0.913587553
+Transcription Factor Binding	0.767921738	0.822943184
+Transcription Factor Binding	0.870429353	0.900928029
+Transcription Factor Binding	0.556588777	0.778598469
+Transcription Factor Binding	0.987867661	0.910527018
+Transcription Factor Binding	0.908067699	0.96057533
+Transcription Factor Binding	0.855191748	0.914682678
+Transcription Factor Binding	0.716818583	0.854241488
+Transcription Factor Binding	0.839413768	0.913356184
+Transcription Factor Binding	0.945364747	0.989262663
+Transcription Factor Binding	0.834972923	0.887767023
+Transcription Factor Binding	0.792341748	0.900347215
+Transcription Factor Binding	0.907468196	0.968048235
+Transcription Factor Binding	0.886430504	0.967496411
+Transcription Factor Binding	0.838171922	0.947239408
+Transcription Factor Binding	0.887865473	0.926291213
+Transcription Factor Binding	0.878940893	0.942492172
+Transcription Factor Binding	0.902769775	0.976816643
+Transcription Factor Binding	0.742208236	0.916367585
+Transcription Factor Binding	0.853938345	0.978024878
+Transcription Factor Binding	0.814455752	0.950238192
+Transcription Factor Binding	0.854289157	0.937782248
+Transcription Factor Binding	0.789847223	0.966511672
+Transcription Factor Binding	0.985855352	0.985570564
+Transcription Factor Binding	0.685532296	0.883366193
+Transcription Factor Binding	0.872282857	0.939746672
+Transcription Factor Binding	0.863468152	0.787254017
+Transcription Factor Binding	0.943601421	0.966326952
+Transcription Factor Binding	0.847380479	0.929747193
+Transcription Factor Binding	0.716621179	0.898704247
+Transcription Factor Binding	0.893867377	0.944556751
+Transcription Factor Binding	0.956219154	0.963650475
+Transcription Factor Binding	0.977021405	0.97350103
+Transcription Factor Binding	0.956721508	0.967987501
+Transcription Factor Binding	0.922985455	0.973237954
+Transcription Factor Binding	0.873761795	0.990261944
+Transcription Factor Binding	0.643305205	0.759608545
+Transcription Factor Binding	0.863582192	0.980635651
+Transcription Factor Binding	0.91818568	0.974786458
+Transcription Factor Binding	0.905869148	0.96271074
+Transcription Factor Binding	0.841911774	0.879738352
+Transcription Factor Binding	0.857010803	0.951080215
+Transcription Factor Binding	0.766088384	0.883596437
+Transcription Factor Binding	0.882243074	0.966793524
+Transcription Factor Binding	0.755735444	0.877119944
+Transcription Factor Binding	0.950794032	0.982842295
+Transcription Factor Binding	0.943029992	0.991760204
+Transcription Factor Binding	0.90001162	0.969279742
+Transcription Factor Binding	0.972702408	0.987341574
+Transcription Factor Binding	0.847018319	0.984146859
+Transcription Factor Binding	0.918627073	0.982523352
+Transcription Factor Binding	0.911629266	0.965073978
+Transcription Factor Binding	0.924603009	0.961706558
+Transcription Factor Binding	0.936594418	0.975297382
+Transcription Factor Binding	0.892928253	0.946061796
+Transcription Factor Binding	0.925702475	0.985522143
+Transcription Factor Binding	0.942405934	0.987689759
+Transcription Factor Binding	0.90442303	0.950908293
+Transcription Factor Binding	0.8954339	0.944350049
+Transcription Factor Binding	0.858172019	0.61358347
+Transcription Factor Binding	0.735061924	0.862422227
+Transcription Factor Binding	0.910627653	0.948582986
+Transcription Factor Binding	0.905626381	0.924739933
+Transcription Factor Binding	0.895371069	0.952978154
+Transcription Factor Binding	0.938988663	0.860200687
+Transcription Factor Binding	0.966405096	0.938711487
+Transcription Factor Binding	0.905761883	0.919312988
+Transcription Factor Binding	0.92050194	0.913287095
+Transcription Factor Binding	0.825956536	0.92634335
+Transcription Factor Binding	0.916411528	0.970185393
+Transcription Factor Binding	0.889825482	0.894352916
+Transcription Factor Binding	0.923113427	0.950198388
+Transcription Factor Binding	0.961067192	0.915400186
+Transcription Factor Binding	0.841558064	0.919097129
+Transcription Factor Binding	0.882484894	0.951152827
+Transcription Factor Binding	0.926268751	0.967004815
+Transcription Factor Binding	0.932919628	0.95022294
+Transcription Factor Binding	0.822200019	0.938668708
+Transcription Factor Binding	0.816760915	0.980755586
+Transcription Factor Binding	0.779690633	0.91232175
+Transcription Factor Binding	0.952547005	0.954600425
+Transcription Factor Binding	0.909792376	0.979813497
+Transcription Factor Binding	0.964043788	0.950060388
+Transcription Factor Binding	0.746415097	0.824731755
+Transcription Factor Binding	0.885422896	0.936031652
+Transcription Factor Binding	0.851891775	0.893916887
+Transcription Factor Binding	0.94544942	0.970418203
+Transcription Factor Binding	0.819837598	0.937894026
+Transcription Factor Binding	0.88340904	0.977362846
+Transcription Factor Binding	0.926049612	0.899225201
+Transcription Factor Binding	0.797717915	0.851426345
+Transcription Factor Binding	0.921047119	0.96185095
+Transcription Factor Binding	0.897451802	0.9492553
+Transcription Factor Binding	0.92091676	0.92589115
+Transcription Factor Binding	0.812054461	0.909577921
+Transcription Factor Binding	0.945534409	0.960208884
+Transcription Factor Binding	0.730218833	0.854929929
+Transcription Factor Binding	0.798481013	0.879915086
+Transcription Factor Binding	0.891741743	0.947286286
+Transcription Factor Binding	0.973379275	0.846731538
+Transcription Factor Binding	0.829038034	0.943886881
+Transcription Factor Binding	0.875711126	0.937846393
+Transcription Factor Binding	0.937062308	0.977033326
+Transcription Factor Binding	0.861526619	0.94407029
+Transcription Factor Binding	0.859140734	0.941456332
+Transcription Factor Binding	0.843385743	0.960128344
+Transcription Factor Binding	0.906881919	0.972362288
+Transcription Factor Binding	0.894703103	0.976498612
+Transcription Factor Binding	0.897841577	0.958379449
+Transcription Factor Binding	0.944632342	0.978769976
+Transcription Factor Binding	0.893953539	0.884343437
+Transcription Factor Binding	0.84317564	0.858311563
+Transcription Factor Binding	0.880201832	0.901030982
+Transcription Factor Binding	0.856865046	0.973993664
+Transcription Factor Binding	0.80493951	0.917540205
+Transcription Factor Binding	0.931883393	0.986384864
+Transcription Factor Binding	0.944042333	0.988637485
+Transcription Factor Binding	0.929642989	0.961524479
+Transcription Factor Binding	0.894872875	0.968188965
+Transcription Factor Binding	0.950121825	0.965441322
+Transcription Factor Binding	0.908551685	0.98923864
+Transcription Factor Binding	0.936206745	0.895241816
+Transcription Factor Binding	0.899912549	0.96702525
+Transcription Factor Binding	0.853941322	0.943373143
+Transcription Factor Binding	0.852897651	0.896613454
+Transcription Factor Binding	0.888804288	0.933815584
+Transcription Factor Binding	0.812811146	0.94109781
+Transcription Factor Binding	0.878523062	0.901340752
+Transcription Factor Binding	0.927036043	0.979735761
+Transcription Factor Binding	0.891913735	0.958753167
+Transcription Factor Binding	0.895105886	0.937861073
+Transcription Factor Binding	0.80147803	0.89040501
+Transcription Factor Binding	0.895070577	0.955268136
+Transcription Factor Binding	0.800298511	0.888563926
+Transcription Factor Binding	0.879264751	0.892690824
+Transcription Factor Binding	0.976931968	0.982423755
+Transcription Factor Binding	0.88109922	0.951960357
+Transcription Factor Binding	0.857224365	0.955879369
+Transcription Factor Binding	0.863976612	0.949510789
+Transcription Factor Binding	0.926074538	0.95885073
+Transcription Factor Binding	0.93762226	0.975452877
+Transcription Factor Binding	0.887399966	0.929119953
+Transcription Factor Binding	0.929166254	0.980089999
+Transcription Factor Binding	0.789045982	0.934083419
+Transcription Factor Binding	0.957022657	0.960727462
+Transcription Factor Binding	0.955163542	0.97416829
+Transcription Factor Binding	0.887989818	0.957160896
+Transcription Factor Binding	0.78865366	0.860369012
+Transcription Factor Binding	0.9284049	0.971915378
+Transcription Factor Binding	0.947370777	0.946635256
+Transcription Factor Binding	0.872316652	0.98633107
+Transcription Factor Binding	0.853765213	0.927549058
+Transcription Factor Binding	0.861215858	0.911494954
+Transcription Factor Binding	0.903941431	0.970965878
+Transcription Factor Binding	0.729169467	0.866995954
+Transcription Factor Binding	0.762394642	0.795943357
+Transcription Factor Binding	0.887587708	0.933487571
+Transcription Factor Binding	0.979027024	0.993896211
+Transcription Factor Binding	0.985149983	0.992769244
+Transcription Factor Binding	0.838786716	0.966875583
+Transcription Factor Binding	0.955345026	0.939606451
+Transcription Factor Binding	0.926323202	0.975105863
+Transcription Factor Binding	0.889640393	0.978210071
+Transcription Factor Binding	0.911519012	0.947341737
+Transcription Factor Binding	0.927558263	0.957692478
+Transcription Factor Binding	0.979651067	0.953367844
+Transcription Factor Binding	0.938365142	0.970582274
+Transcription Factor Binding	0.916277794	0.841360202
+Transcription Factor Binding	0.867480935	0.941286484
+Transcription Factor Binding	0.845947653	0.936048728
+Transcription Factor Binding	0.945161027	0.97844558
+Transcription Factor Binding	0.983781833	0.972199689
+Transcription Factor Binding	0.940144962	0.965369896
+Transcription Factor Binding	0.93646625	0.605197172
+Transcription Factor Binding	0.841960906	0.895874587
+Transcription Factor Binding	0.878254798	0.949640819
+Transcription Factor Binding	0.88077828	0.914682659
+Transcription Factor Binding	0.72329022	0.877547823
+Transcription Factor Binding	0.810596748	0.836134056
+Transcription Factor Binding	0.861090617	0.956304476
+Transcription Factor Binding	0.903440544	0.961951839
+Transcription Factor Binding	0.773944929	0.878364079
+Transcription Factor Binding	0.904305583	0.991564542
+Transcription Factor Binding	0.862330513	0.904595152
+Transcription Factor Binding	0.844067798	0.964920146
+Transcription Factor Binding	0.720930451	0.827062735
+Transcription Factor Binding	0.954334657	0.984553657
+Transcription Factor Binding	0.940186375	0.996794872
+Transcription Factor Binding	0.870631158	0.956104707
+Transcription Factor Binding	0.914367962	0.864296629
+Transcription Factor Binding	0.967301793	0.864753577
+Transcription Factor Binding	0.880550692	0.958964704
+Transcription Factor Binding	0.941618331	0.973420264
+Transcription Factor Binding	0.903421188	0.950267908
+Transcription Factor Binding	0.930022548	0.932938096
+Transcription Factor Binding	0.865313488	0.935435992
+Transcription Factor Binding	0.942325728	0.987061961
+Transcription Factor Binding	0.879778684	0.957031185
+Transcription Factor Binding	0.808476221	0.9221628
+Transcription Factor Binding	0.916071478	0.953901224
+Transcription Factor Binding	0.929138065	0.94605182
+Transcription Factor Binding	0.906625041	0.97369154
+Transcription Factor Binding	0.903385282	0.955395759
+Transcription Factor Binding	0.87205615	0.937381984
+Transcription Factor Binding	0.923904525	0.963124944
+Transcription Factor Binding	0.910689303	0.971609486
+Transcription Factor Binding	0.90134527	0.896340108
+Transcription Factor Binding	0.936840967	0.976576835
+Transcription Factor Binding	0.814648246	0.923599627
+Transcription Factor Binding	0.888504884	0.969572299
+Transcription Factor Binding	0.762566317	0.794816191
+Transcription Factor Binding	0.871972681	0.982303274
+Transcription Factor Binding	0.866499407	0.959504332
+Transcription Factor Binding	0.947418511	0.974733165
+Transcription Factor Binding	0.711850236	0.840863964
+Transcription Factor Binding	0.882291599	0.969190428
+Transcription Factor Binding	0.896948095	0.978248829
+Transcription Factor Binding	0.7888314	0.899171093
+Transcription Factor Binding	0.884699018	0.982511157
+Transcription Factor Binding	0.9536692	0.982551937
+Transcription Factor Binding	0.972842948	0.978600653
+Transcription Factor Binding	0.867706331	0.933240786
+Transcription Factor Binding	0.886436116	0.961121182
+Transcription Factor Binding	0.868076318	0.953365244
+Transcription Factor Binding	0.973008229	0.984712517
+Transcription Factor Binding	0.682517909	0.78935439
+Transcription Factor Binding	0.91944442	0.9811143
+Transcription Factor Binding	0.942668298	0.963988534
+Transcription Factor Binding	0.967488247	0.984293421
+Transcription Factor Binding	0.945976767	0.953526378
+Transcription Factor Binding	0.929419802	0.887231842
+Transcription Factor Binding	0.953854773	0.990758586
+Transcription Factor Binding	0.951797181	0.968903507
+Transcription Factor Binding	0.929947275	0.936926136
+Transcription Factor Binding	0.93855366	0.813850317
+Transcription Factor Binding	0.747199787	0.668915175
+Transcription Factor Binding	0.796481096	0.987698476
+Transcription Factor Binding	0.822687934	0.924962425
+Transcription Factor Binding	0.88943137	0.91900961
+Transcription Factor Binding	0.92031237	0.981166749
+Transcription Factor Binding	0.841323553	0.931286198
+Transcription Factor Binding	0.914730675	0.947386879
+Transcription Factor Binding	0.719538989	0.888276975
+Transcription Factor Binding	0.932729735	0.965434622
+Transcription Factor Binding	0.882842302	0.943040184
+Transcription Factor Binding	0.813109444	0.969031205
+Transcription Factor Binding	0.927515199	0.969297698
+Transcription Factor Binding	0.956121694	0.921185502
+Transcription Factor Binding	0.919671122	0.96270332
+Transcription Factor Binding	0.914921581	0.974949554
+Transcription Factor Binding	0.893305058	0.989487725
+Transcription Factor Binding	0.850807385	0.93308067
+Transcription Factor Binding	0.930126649	0.982199188
+Histone Markers	0.684013909	0.735296488
+Histone Markers	0.827334061	0.882154622
+Histone Markers	0.760423269	0.822016675
+Histone Markers	0.681430318	0.737051199
+Histone Markers	0.803360637	0.844723365
+Histone Markers	0.670280483	0.739511142
+Histone Markers	0.738152763	0.717186837
+Histone Markers	0.638200176	0.670659934
+Histone Markers	0.678778393	0.724522299
+Histone Markers	0.781025259	0.809859055
+Histone Markers	0.773400097	0.810994704
+Histone Markers	0.637541174	0.650417313
+Histone Markers	0.822898393	0.872356355
+Histone Markers	0.732589561	0.704602181
+Histone Markers	0.635004647	0.661733743
+Histone Markers	0.678263121	0.433987366
+Histone Markers	0.711430212	0.778359567
+Histone Markers	0.769914397	0.744486069
+Histone Markers	0.657405007	0.761843974
+Histone Markers	0.758387965	0.807116847
+Histone Markers	0.847015723	0.835518206
+Histone Markers	0.643155369	0.651103092
+Histone Markers	0.816936131	0.858255584
+Histone Markers	0.722248341	0.688670379
+Histone Markers	0.841199627	0.897701275
+Histone Markers	0.721748214	0.790297842
+Histone Markers	0.788529055	0.827786352
+Histone Markers	0.831961298	0.844628209
+Histone Markers	0.677682719	0.791747108
+Histone Markers	0.752704581	0.781590805
+Histone Markers	0.878467678	0.863133774
+Histone Markers	0.658309761	0.699038938
+Histone Markers	0.883767776	0.91234244
+Histone Markers	0.851291401	0.623528682
+Histone Markers	0.808329419	0.775647054
+Histone Markers	0.718297997	0.797060355
+Histone Markers	0.824401921	0.900201166
+Histone Markers	0.864370581	0.902972459
+Histone Markers	0.778787543	0.85739926
+Histone Markers	0.795817302	0.894364591
+Histone Markers	0.833773985	0.899424046
+Histone Markers	0.799808724	0.891113142
+Histone Markers	0.824535465	0.855108104
+Histone Markers	0.911635328	0.909992212
+Histone Markers	0.757417977	0.789575765
+Histone Markers	0.825110226	0.827218336
+Histone Markers	0.696339535	0.6292661
+Histone Markers	0.780041914	0.872500128
+Histone Markers	0.783411191	0.819205553
+Histone Markers	0.825083286	0.855850914
+Histone Markers	0.917157356	0.869244574
+Histone Markers	0.851262107	0.892175297
+Histone Markers	0.818143796	0.868305598
+Histone Markers	0.72389415	0.805794537
+Histone Markers	0.880515477	0.92011487
+Histone Markers	0.746887188	0.637396042
+Histone Markers	0.820638754	0.864821996
+Histone Markers	0.760050706	0.795086944
+Histone Markers	0.90921486	0.958882736
+Histone Markers	0.735439194	0.675798737
+Histone Markers	0.774024627	0.824019454
+Histone Markers	0.747325465	0.834129736
+Histone Markers	0.802912308	0.856828772
+Histone Markers	0.690975879	0.743291211
+Histone Markers	0.687575785	0.672678077
+Histone Markers	0.783064361	0.840735895
+Histone Markers	0.789511271	0.845313235
+Histone Markers	0.673502644	0.65346272
+Histone Markers	0.775866123	0.75481406
+Histone Markers	0.742481437	0.76977862
+Histone Markers	0.789871934	0.866724939
+Histone Markers	0.68059395	0.742521574
+Histone Markers	0.82081661	0.869854455
+Histone Markers	0.70717792	0.799307816
+Histone Markers	0.817249598	0.872016171
+Histone Markers	0.651208607	0.694607814
+Histone Markers	0.745563159	0.829467359
+Histone Markers	0.795764818	0.845317486
+Histone Markers	0.656876131	0.708150071
+Histone Markers	0.711979897	0.739991145
+Histone Markers	0.658578942	0.683495632
+Histone Markers	0.639975913	0.716232663
+Histone Markers	0.736592599	0.778832994
+Histone Markers	0.817874216	0.873096577
+Histone Markers	0.647377875	0.680693688
+Histone Markers	0.733787912	0.754085407
