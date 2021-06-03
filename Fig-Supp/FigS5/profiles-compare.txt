@@ -1,0 +1,5 @@
+Profile,CARMEN Annotation,DeepSEA
+Transcription Factor Binding,1249,690
+Histone Markers,766,104
+DNA Accessibility,280,125
+Meythylation Profiles,108,0

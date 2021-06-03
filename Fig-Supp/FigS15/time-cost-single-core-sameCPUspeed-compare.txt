@@ -1,0 +1,5 @@
+Methods	Time
+DeepSEA	9.2
+CARMEN	38.0
+EnsembleExpr	62.1
+ExPecto	332.3
